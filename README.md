@@ -1,4 +1,4 @@
-# AI Resume Matcher - Phase 5 + PostgreSQL
+# AI Resume Matcher - PostgreSQL
 
 A multi-resume job matching application using React, Spring Boot, FastAPI and PostgreSQL.
 
